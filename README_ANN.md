@@ -1,5 +1,5 @@
 # 📌 Heart Disease Prediction Using Artificial Neural Networks (ANN)
-### 🔗 For the Streamlit Dashboard Link: https://dlmprojects-awzttghmyh6xdcrs75xuzq.streamlit.app/
+### 🔗 For the Streamlit Dashboard Link: https://annproject-tdunk2zdbaghmyyztl8eyd.streamlit.app/
 
 ## 🏆 Project Details
 This project aims to **predict heart disease** using a deep learning model built with **Artificial Neural Networks (ANN)**. The model is trained on a structured dataset containing patient health records and cardiovascular attributes. The primary focus is on **hyperparameter tuning** to enhance model performance. The dataset is provided in this repository.("Dataset of Heart.csv")
